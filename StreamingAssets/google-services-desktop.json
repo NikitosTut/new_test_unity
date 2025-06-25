@@ -1,0 +1,18 @@
+{
+  "project_info": {
+    "project_id": "unitygametest-bba31",
+    "project_number": "163043904633"
+  },
+  "client": [{
+    "client_info": {
+      "mobilesdk_app_id": "1:163043904633:web:adebff39b323c9997518a8",
+      "android_client_info": {
+        "package_name": "com.yourcompany.yourapp"
+      }
+    },
+    "api_key": [{
+      "current_key": "AIzaSyDkVDMkmKNO0t-MCXqN90gmchRLM0AGx0Y"
+    }]
+  }],
+  "database_url": "https://unitygametest-bba31-default-rtdb.europe-west1.firebasedatabase.app/"
+}

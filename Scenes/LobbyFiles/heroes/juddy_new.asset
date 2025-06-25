@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 527add3f56bb71f4792300939d522d29, type: 3}
+  m_Name: juddy_new
+  m_EditorClassIdentifier: 
+  characterName: Juddy New
+  fullAvatar: {fileID: -2124803582556154399, guid: dc5534d9dd7cabf40916c075d887d20e, type: 3}
+  miniAvatar: {fileID: -8500363211685909399, guid: 75a5846ade21cfd43bfeca0c0b8a91bc, type: 3}
+  prefab: {fileID: 8713571196062282953, guid: e72c54ab66062db4885d5e9da9a26896, type: 3}
